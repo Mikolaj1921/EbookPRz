@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Kalkulator_BD.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  DaneUzytkownika.cpp
+  DataBase.cpp
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\DataBase.cpp(31,32): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\DataBase.cpp(64,32): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\DataBase.cpp(101,32): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\DataBase.cpp(129,32): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\DataBase.cpp(151,32): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+  Glowna.cpp
+  Login.cpp
+  main.cpp
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\main.cpp(11,33): warning C4829: Możliwe niepoprawne parametry funkcji main. Rozważ użycie "int main(Platform::Array<Platform::String^>^ argv)"
+  Registration.cpp
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\Registration.cpp(436,31): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\Registration.cpp(484,27): warning C4101: "ex": lokalna zmienna, do której nie istnieje odwołanie
+  StartPanel.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  DaneUzytkownika.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Kalkulator_BD.vcxproj -> C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\x64\Debug\EbookPrz.exe

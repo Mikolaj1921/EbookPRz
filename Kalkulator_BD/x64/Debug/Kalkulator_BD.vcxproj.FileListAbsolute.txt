@@ -1,0 +1,24 @@
+C:\Users\halin\Desktop\Kalkulator_BD\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.AssemblyReference.cache
+C:\Users\halin\Desktop\Kalkulator_BD\Kalkulator_BD\x64\Debug\KalkulatorBD.StartPanel.resources
+C:\Users\halin\Desktop\Kalkulator_BD\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.GenerateResource.cache
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.AssemblyReference.cache
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.StartPanel.resources
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.GenerateResource.cache
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Login.resources
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Registration.resources
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Glowna.resources
+C:\Users\halin\Desktop\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.DaneUzytkownika.resources
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.AssemblyReference.cache
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.DaneUzytkownika.resources
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Glowna.resources
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Login.resources
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Registration.resources
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.StartPanel.resources
+C:\Users\halin\Desktop\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.GenerateResource.cache
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.AssemblyReference.cache
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.DaneUzytkownika.resources
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Glowna.resources
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Login.resources
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.Registration.resources
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\KalkulatorBD.StartPanel.resources
+C:\Users\halin\Desktop\PRZ\SEMESTR - 4\Zaawansowany C++\EbookPrz\Kalkulator_BD\x64\Debug\Kalkulator_BD.vcxproj.GenerateResource.cache
